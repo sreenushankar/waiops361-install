@@ -2,5 +2,5 @@
 
 ### Installing Watson AIOps 3.6.1 on ROKS
 
-1. [./Installing Watson AIOps 3.6.1 on ROKS](./01-install-aimgr-on-roks)
+1. [Installing Watson AIOps 3.6.1 on ROKS](./01-install-aimgr-on-roks)
 
