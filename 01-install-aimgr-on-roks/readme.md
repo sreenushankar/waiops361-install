@@ -1,6 +1,6 @@
-# Installing Watson AIOps AI Manager 3.6.1 on IBM ROKS 
+# Installing Watson AIOps AI Manager 3.6.2 on IBM ROKS 
 
-This document explains about Installing IBM Watson AIOps 3.6.1 on IBM ROKS.
+This document explains about Installing IBM Watson AIOps 3.6.2 on IBM ROKS.
 
 Installation scripts are available here [files](./files).
 
